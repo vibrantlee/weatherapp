@@ -1,4 +1,4 @@
-loadWeather("76067");
+loadWeather("23386");
 
 
 $(document).ready(function() {
